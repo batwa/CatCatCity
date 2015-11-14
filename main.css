@@ -8,7 +8,7 @@ body {
 	font-family: 'Merriweather', serif;
 }
 
-body {
+body, h1 {
 	background-color: #fff;
 	color: #680000;
 }
