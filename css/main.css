@@ -2,13 +2,16 @@
 GENERAL
 **************/
 
-/* font for page */
-
-body {
-	font-family: 'Merriweather', serif;
+html {
 	background-image: url("ihttps://pbs.twimg.com/profile_images/616542814319415296/McCTpH_E.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
+	background-size: cover; 
+}
+
+body {
+	font-family: 'Merriweather', serif;
+
 
 }
 
