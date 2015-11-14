@@ -2,16 +2,12 @@
 GENERAL
 **************/
 
-html {
-	background-image: url("https://pbs.twimg.com/profile_images/616542814319415296/McCTpH_E.jpg");
-	background-repeat: no-repeat;
-	background-size: cover; 
-}
 
 body {
 	font-family: 'Merriweather', serif;
-
-
+	background-image: url("https://pbs.twimg.com/profile_images/616542814319415296/McCTpH_E.jpg");
+	background-repeat: no-repeat;
+	background-size: cover; 
 }
 
 body, h1 {
@@ -27,10 +23,11 @@ img {
 h1 {
 	font-family: 'Merriweather', sans-serif;
   	margin: 15px 0;
-  	font-size: 2.75em;
+  	font-size: 3.75em;
   	font-weight: bold;
   	line-height: 0.8em;
   	padding: 25px 0;
+  	text-align: center;
 
 }
 
@@ -39,5 +36,20 @@ p {
 	font-family: 'Merriweather', sans-serif;
 	font-size: 1.75em;
 	padding: 25px 0;
+	margin: 20%;
+}
+
+#myButton {
+	font-family: 'Merriweather', sans-serif;
+	font-size: 1.75em;
+	padding: 25px 0;
+	margin: 20%;
+}
+
+.about {
+	font-family: 'Merriweather', sans-serif;
+	font-size: 1.75em;
+	padding: 25px 0;
+	margin: 20%;
 }
 
