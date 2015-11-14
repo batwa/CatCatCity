@@ -6,12 +6,20 @@ GENERAL
 
 body {
 	font-family: 'Merriweather', serif;
+	background-image: url("..img/grumpycat.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+
 }
 
 body, h1 {
 	background-color: #fff;
 	color: #680000;
 	
+}
+
+img {
+	max-width: 100%;
 }
 
 h1 {
