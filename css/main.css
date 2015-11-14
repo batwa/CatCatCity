@@ -11,6 +11,12 @@ body {
 body, h1 {
 	background-color: #fff;
 	color: #680000;
+	
+}
+
+header {
+	margin: 0;
+	text-align: center;
 }
 
 
