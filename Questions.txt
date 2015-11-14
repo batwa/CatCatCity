@@ -1,7 +1,31 @@
 Question 1:
-Pikachu, Charmander, Squirtle or Bulbasur
+Pikachu, Charmander, Squirtle or Bulbasur?
 Answers:
-(a) Charmander
-(b) Squirtle
-(c) Bulbasur
-(d) Pikachu
+(a) Pikachu
+(b) Charmander
+(c) Squirtle
+(d) Bulbasur
+
+Question 2:
+What food aout of the selection would you choose?
+Answers:
+(a) Pizza
+(b) Apples
+(c) Lasagna
+(d) Carrots
+
+Question 3:
+Which number is best?
+Answers:
+(a) 1
+(b) 2
+(c) PI
+(d) 9999999999999
+
+Question 4:
+Which form of Spaghetti is best?
+Answers:
+(a) Crystalized
+(b) Frozen
+(c) PI
+(d) 9999999999999
