@@ -27,5 +27,4 @@ Which form of Spaghetti is best?
 Answers:
 (a) Crystalized
 (b) Frozen
-(c) PI
-(d) 9999999999999
+(c) Edible

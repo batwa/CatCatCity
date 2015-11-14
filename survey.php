@@ -11,6 +11,7 @@
 	<header>
 		<h1>CAT CAT CITY</h1>
 		<p>Start the Survey below:</p>
+		<form action="" method="post">
 		<p>Question #1</p>
 		<p>Charmander, Squirtle or Bulbasur?<p>
 		<form action="" method="post">
@@ -41,7 +42,14 @@
 			<input type="radio" name="q4" value="Frozen">Frozen<br>
 			<input type="radio" name="q4" value="Edible">Edible
 		</form>
-		<button onclick="location.href = 'submit.php';" id="myButton" class="float-left submit-button" >Click to Submit!</button>
+		<input type="submit" name="submit" value="Get Selected Values" />
+		</form>
+		<?php
+			if(isset($_POST['submit'])) {
+			if(isset($_POST['q1'])) {
+				echo "You have selected :".$_POST['radio'];  //  Displaying Selected Value
+			}}
+		?>
 	</header>
 </body>
 </html>
