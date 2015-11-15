@@ -9,6 +9,7 @@ body {
 	font-family: 'Merriweather', serif;
 	background-image: url("http://www.hdwallpaperscool.com/wp-content/uploads/2015/01/grumpy-cat-tardar-sauce-animals-high-resolution-wallpaper-for-desktop-background-download-free.jpg");
 	background-size: cover; 
+	background-attachment: fixed;
 }
 
 body, h1 {
