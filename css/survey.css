@@ -35,11 +35,12 @@ h1 {
 p {
 	font-family: 'Merriweather', sans-serif;
 	font-size: 1em;
-
 }
 
 .body {
 	text-align: center;
+}
+padding-right: 25px 0;
 }
 
 

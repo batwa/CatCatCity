@@ -14,7 +14,7 @@
 		<p>Start the Survey below:</p>
 		<p>Question #1</p>
 		<p>Charmander, Squirtle or Bulbasur?<p>
-		<form action="submit.php" method="get">
+		<form action="submit.php" method="POST">
 			<input type="radio" name="q1" value="Charmander">Charmander<br>
 			<input type="radio" name="q1" value="Squirtle">Squirtle<br>
 			<input type="radio" name="q1" value="Bulbasur">Bulbasur
@@ -22,7 +22,7 @@
 		<p>Question #2</p>
 		<p>What food out of the selection would you choose?<p>
 		<form action="" method="post">
-		<form action="submit.php" method="get">
+		<form action="submit.php" method="POST">
 			<input type="radio" name="q2" value="Pizza">Pizza<br>
 			<input type="radio" name="q2" value="Apples">Apples<br>
 			<input type="radio" name="q2" value="Lasagna">Lasagna<br>
@@ -30,7 +30,7 @@
 		</form>
 		<p>Question #3</p>
 		<p>Which number is best?<p>
-		<form action="submit.php" method="get">
+		<form action="submit.php" method="POST">
 			<input type="radio" name="q3" value="0111 1101">0111 1101<br>
 			<input type="radio" name="q3" value="0xFFFFF5">0xFFFFF5<br>
 			<input type="radio" name="q3" value="PI">PI<br>
@@ -38,10 +38,11 @@
 		</form>
 		<p>Question #4</p>
 		<p>Which form of Spaghetti is best?<p>
-		<form action="submit.php" method="get">
+		<form action="submit.php" method="POST">
 			<input type="radio" name="q4" value="Crystalized">Crystalized<br>
 			<input type="radio" name="q4" value="Frozen">Frozen<br>
-			<input type="radio" name="q4" value="Edible">Edible
+			<input type="radio" name="q4" value="Edible">Edible<br>
+			<input type="radio" name="q4" value="Papyrus">Made by Papyrus
 		</form>
 		<button onclick="location.href = 'submit.php';" id="myButton" class="float-left submit-button" >Click to Submit!</button>
 		</div>
