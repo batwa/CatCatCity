@@ -74,6 +74,10 @@ NAVIGATION
 
 }
 
+li a {
+	color: #680000;
+}
+
 .nav li {
 	display: inline;
 }
