@@ -9,7 +9,7 @@
 </head>
 <body>
 	<header>
-		<p><?php echo 'Answer 1 :'.$_GET["q1"]; ?><p>
+		<p><?php echo "Answer 1 :".$_GET['q1']; ?><p>
 		<p><?php echo "Answer 1 :".$_GET['q2']; ?><p>
 		<p><?php echo "Answer 1 :".$_GET['q3']; ?><p>
 		<p><?php echo "Answer 1 :".$_GET['q4']; ?><p>
