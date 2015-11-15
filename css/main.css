@@ -58,10 +58,16 @@ NAVIGATION
 
 
 .nav {
+	font-family: 'Merriweather', sans-serif;
+  	margin: 15px 0;
+  	font-size: 2em;
+  	font-weight: bold;
+  	line-height: 0.8em;
+  	padding: 25px 0;
+	color: #680000;
 	list-style-type: none;
 	text-align: center;
 	margin: 0;
-	padding: 0;
 
 }
 
