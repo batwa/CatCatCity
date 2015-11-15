@@ -72,11 +72,16 @@ NAVIGATION
   	font-size: 1em;
   	font-weight: bold;
   	/*padding: 25px 0;*/
+  	padding: 25px 0;
 	color: #680000;
 	list-style-type: none;
 	text-align: center;
 	margin: 0;
+}
 
+ul {
+	margin: 0;
+	padding: 0;
 }
 
 li a {
