@@ -56,6 +56,11 @@ h2 {
 	text-align: center;
 }
 
+.gitLogo {
+	display: block;
+    margin: 0 auto;
+}
+
 /*************** 
 NAVIGATION
 **************/
