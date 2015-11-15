@@ -65,6 +65,10 @@ NAVIGATION
 
 }
 
+.nav li {
+	display: inline;
+}
+
 .nav a:hover {
 	color: #ffe5ee;
 }
