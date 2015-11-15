@@ -8,6 +8,7 @@
 	<link rel="stylesheet" href="css/survey.css">
 </head>
 <body>
+	<p>Herllo<p>
 	<?php echo "Answer 1 :".$_POST['q1']; 
 	echo "Answer 2 :".$_POST['q2']; 
 	echo "Answer 3 :".$_POST['q3']; 
