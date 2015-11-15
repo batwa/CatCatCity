@@ -10,11 +10,11 @@
 <body>
 	<header>
 	<h1>CAT CAT CITY</h1>
+	<div class="nav">
 	<ul>
 		<li><a href="index.html" class="index">Home</a></li> |
   		<li><a href="about.html" class="about">About</a></li> 
 	</ul>
-	<div class="nav">
 	<p style="border-style:solid; background-color:#BFBFCC">
 	Congratulations! The cat for you is grumpy cat! 
 	Thank you filling out our awesome questionaire. 
