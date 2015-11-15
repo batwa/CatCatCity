@@ -1,6 +1,9 @@
 /*************** 
 GENERAL
 **************/
+* {
+	box-sizing: border-box;
+}
 
 
 body {
@@ -42,20 +45,6 @@ p {
 }
 
 
-/*************** 
-NAVIGATION
-**************/
-
-
-nav ul {
-	display: inline-block;
-
-}
-
-nav a:hover {
-	color: #680000 ;
-}
-
 a {
 	text-decoration: none;
 }
@@ -63,5 +52,31 @@ a {
 ul  {
 	list-style: none;
 }
+
+/*************** 
+NAVIGATION
+**************/
+
+
+.nav {
+	list-style-type: none;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+
+}
+
+.nav li {
+	display: inline;
+}
+
+.nav a:hover {
+	color: #ffe5ee;
+}
+
+
+
+
+
 
 
