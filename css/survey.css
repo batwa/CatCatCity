@@ -40,7 +40,27 @@ p {
 .body {
 	text-align: center;
 }
-padding-right: 25px 0;
+
+
+/*************** 
+NAVIGATION
+**************/
+
+
+nav ul {
+	display: inline-block;
+
 }
+
+nav a:hover {
+	color: #680000 ;
+}
+
+a {
+	text-decoration: none;
+}
+
+ul  {
+	
 
 
