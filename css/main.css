@@ -86,7 +86,9 @@ NAVIGATION
 BUTTON ANIMATION
 **************/
 
-
+#myButton {
+	-webkit-animation: bounce 3s infinite;
+}
 
 
 
