@@ -7,7 +7,7 @@ GENERAL
 
 body {
 	font-family: 'Merriweather', serif;
-	background-image: url("http://www.hdwallpaperscool.com/wp-content/uploads/2015/01/grumpy-cat-tardar-sauce-animals-high-resolution-wallpaper-for-desktop-background-download-free.jpg");
+	background-image: url("https://pbs.twimg.com/profile_images/616542814319415296/McCTpH_E.jpg");
 	background-repeat: no-repeat;
 	background-size: cover; 
 }
@@ -72,16 +72,11 @@ NAVIGATION
   	font-size: 1em;
   	font-weight: bold;
   	/*padding: 25px 0;*/
-  	padding: 25px 0;
 	color: #680000;
 	list-style-type: none;
 	text-align: center;
 	margin: 0;
-}
 
-ul {
-	margin: 0;
-	padding: 0;
 }
 
 li a {
