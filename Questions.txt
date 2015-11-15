@@ -28,3 +28,45 @@ Answers:
 (a) Crystalized
 (b) Frozen
 (c) Edible
+
+Question 5:
+How do you feel about meeting new people?
+(a) It's great!
+(b) I hate people!
+(c) Eh, it's ok.
+(d) I'm completely neutral.
+
+Question 6:
+What is the antiderivative of 1/x?
+(a) You lost me at "antiderivative"
+(b) ln(x)
+(c) sin(x)
+(d) NO NOT MATH
+
+Question 7:
+Musical instrument you like the most out of the ones listed?
+(a) Clarinet
+(b) Piano
+(c) Electric guitar
+(d) Ocarina
+
+Question 8:
+Favorite Mario character out of the ones listed?
+(a) Luigi
+(b) Bowser
+(c) Toad
+(d) Daisy
+
+Question 9:
+I never leave my home without...
+(a) My phone
+(b) Lasagna
+(c) My lasagna phone
+(d) Chapstick
+
+Question 10:
+At parties I...
+(a) Dance by myself
+(b) Hide in a corner
+(c) Socialize!!
+(d) Immediately leave the party
