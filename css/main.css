@@ -57,8 +57,10 @@ NAVIGATION
 **************/
 
 
-nav ul {
-	display: inline-block;
+nav {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
 
 }
 
