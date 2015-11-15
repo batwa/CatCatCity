@@ -38,6 +38,7 @@ h1 {
 p {
 	font-family: 'Merriweather', sans-serif;
 	font-size: 1em;
+	margin: 1%;
 }
 
 .body {
@@ -51,6 +52,10 @@ a {
 
 ul  {
 	list-style: none;
+}
+
+form {
+	margin: 1%;
 }
 
 /*************** 
