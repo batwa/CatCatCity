@@ -52,11 +52,19 @@ ul  {
 	list-style: none;
 }
 
+/*************** 
+NAVIGATION
+**************/
+
+
 nav ul {
 	display: inline-block;
 
 }
 
+nav a:hover {
+	color: #680000 ;
+}
 
 
 
