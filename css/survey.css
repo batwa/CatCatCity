@@ -57,12 +57,16 @@ ul  {
 NAVIGATION
 **************/
 
-
 .nav {
+	font-family: 'Merriweather', sans-serif;
+  	margin: 15px 0;
+  	font-size: 1em;
+  	font-weight: bold;
+  	padding: 25px 0;
+	color: #680000;
 	list-style-type: none;
 	text-align: center;
 	margin: 0;
-	padding: 0;
 
 }
 
