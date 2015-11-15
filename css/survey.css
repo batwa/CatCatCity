@@ -5,6 +5,11 @@ GENERAL
 	box-sizing: border-box;
 }
 
+.div{
+	width: 300px;
+    height: 100px;
+	box-sizing: border-box;
+}
 
 body {
 	font-family: 'Merriweather', serif;
