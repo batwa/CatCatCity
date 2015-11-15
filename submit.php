@@ -9,7 +9,14 @@
 </head>
 <body>
 	<header>
-	
+	<h1>CAT CAT CITY</h1>
+	<div class="nav">
+	<p style="border-style:solid; background-color:#BFBFCC">
+	Congratulations! The cat for you is grumpy cat! 
+	Thank you filling out our awesome questionaire. 
+	Check out our about page for some more cool stuff.<p>
+	<img src="images/grumpy-cat.jpg"></a>
+	</div>
 	</header>
 </body>
 </html>
