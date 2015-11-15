@@ -86,6 +86,13 @@ li a {
 	color: #ffe5ee;
 }
 
+/*************** 
+BUTTON ANIMATION
+**************/
+
+#myButton {
+	-webkit-animation: bounce 3s infinite;
+}
 
 
 
