@@ -57,14 +57,14 @@ NAVIGATION
 **************/
 
 
-nav {
+.nav {
 	list-style-type: none;
 	margin: auto;
 	padding: 0;
 
 }
 
-nav a:hover {
+.nav a:hover {
 	color: #680000 ;
 }
 
